@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35995531-5bad-4422-a33d-c5112b5effec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qi3nhBwNw9Cvh9xBeCRy18bAc6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.people.films1">
+    <configuration name="film" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.film" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="film.films" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.film" />
+      <option name="METHOD_NAME" value="films" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="film.films1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.film" />
+      <option name="METHOD_NAME" value="films1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="film.films2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.film" />
+      <option name="METHOD_NAME" value="films2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="people.films1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.people" />
+      <option name="METHOD_NAME" value="films1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.people.films1" />
+        <item itemvalue="JUnit.film.films2" />
+        <item itemvalue="JUnit.film.films1" />
+        <item itemvalue="JUnit.film" />
+        <item itemvalue="JUnit.film.films" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35995531-5bad-4422-a33d-c5112b5effec" name="Default Changelist" comment="" />
+      <created>1617548752612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617548752612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="99" y="100" width="1080" height="520" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1617561777364">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="99" y="100" width="1080" height="520" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.720@0.0.1280.720" timestamp="1617561777364" />
+    <state x="327" y="131" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617562196944">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state x="327" y="131" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.601@0.25.1280.601" timestamp="1617562196944" />
+    <state x="453" y="36" key="#com.intellij.ide.util.MemberChooser" timestamp="1617553517458">
+      <screen x="0" y="25" width="1280" height="605" />
+    </state>
+    <state x="453" y="36" key="#com.intellij.ide.util.MemberChooser/0.25.1280.605@0.25.1280.605" timestamp="1617553517458" />
+    <state x="1" y="67" width="1279" height="585" key="#xdebugger.evaluate" timestamp="1617560190301">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="1" y="67" width="1279" height="585" key="#xdebugger.evaluate/0.0.1280.720@0.0.1280.720" timestamp="1617560190301" />
+    <state width="1238" height="232" key="GridCell.Tab.0.bottom" timestamp="1617562336223">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="214" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1617561777514" />
+    <state width="1238" height="232" key="GridCell.Tab.0.bottom/0.25.1280.601@0.25.1280.601" timestamp="1617562336223" />
+    <state width="1238" height="78" key="GridCell.Tab.0.bottom/0.25.1280.605@0.25.1280.605" timestamp="1617553576081" />
+    <state width="1238" height="232" key="GridCell.Tab.0.center" timestamp="1617562336222">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="214" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1617561777513" />
+    <state width="1238" height="232" key="GridCell.Tab.0.center/0.25.1280.601@0.25.1280.601" timestamp="1617562336222" />
+    <state width="1238" height="78" key="GridCell.Tab.0.center/0.25.1280.605@0.25.1280.605" timestamp="1617553576081" />
+    <state width="1238" height="232" key="GridCell.Tab.0.left" timestamp="1617562336222">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="214" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1617561777512" />
+    <state width="1238" height="232" key="GridCell.Tab.0.left/0.25.1280.601@0.25.1280.601" timestamp="1617562336222" />
+    <state width="1238" height="78" key="GridCell.Tab.0.left/0.25.1280.605@0.25.1280.605" timestamp="1617553576080" />
+    <state width="1238" height="232" key="GridCell.Tab.0.right" timestamp="1617562336223">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="214" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1617561777514" />
+    <state width="1238" height="232" key="GridCell.Tab.0.right/0.25.1280.601@0.25.1280.601" timestamp="1617562336223" />
+    <state width="1238" height="78" key="GridCell.Tab.0.right/0.25.1280.605@0.25.1280.605" timestamp="1617553576081" />
+    <state width="1238" height="232" key="GridCell.Tab.1.bottom" timestamp="1617562336224">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1617561632180" />
+    <state width="1238" height="232" key="GridCell.Tab.1.bottom/0.25.1280.601@0.25.1280.601" timestamp="1617562336224" />
+    <state width="1238" height="232" key="GridCell.Tab.1.center" timestamp="1617562336223">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1617561632179" />
+    <state width="1238" height="232" key="GridCell.Tab.1.center/0.25.1280.601@0.25.1280.601" timestamp="1617562336223" />
+    <state width="1238" height="232" key="GridCell.Tab.1.left" timestamp="1617562336223">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1617561632178" />
+    <state width="1238" height="232" key="GridCell.Tab.1.left/0.25.1280.601@0.25.1280.601" timestamp="1617562336223" />
+    <state width="1238" height="232" key="GridCell.Tab.1.right" timestamp="1617562336224">
+      <screen x="0" y="25" width="1280" height="601" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1617561632179" />
+    <state width="1238" height="232" key="GridCell.Tab.1.right/0.25.1280.601@0.25.1280.601" timestamp="1617562336224" />
+  </component>
+</project>
